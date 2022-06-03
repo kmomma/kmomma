@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+typing "." on the github repository opens vs code in the browser.
+
 <!--
 **kmomma/kmomma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
